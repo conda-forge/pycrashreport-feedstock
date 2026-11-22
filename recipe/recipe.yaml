@@ -1,5 +1,5 @@
 context:
-  version: "2.0.0"
+  version: "2.3.1"
 
 package:
   name: pycrashreport
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pycrashreport/pycrashreport-${{ version }}.tar.gz
-  sha256: 31d5e32faa3a047fe01e923bde3eaf1ec86b23e264babf2fc8f7b61fe4812342
+  sha256: 06f31c226fb807ea5d2117fac0056e9774f1a4d99b2d20215429887fc9a551b4
 
 build:
   number: 0
